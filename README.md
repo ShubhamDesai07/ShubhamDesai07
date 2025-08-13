@@ -17,10 +17,10 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/@shubhamdesai3623" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Shubham Desai&subtitle=@shubhamdesai3623&size=square" alt="SHUBHAM DESAI">
-      </a>
-    </td>
+  <a href="https://www.youtube.com/@ShubhamDesai3623" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40ShubhamDesai3623&subtitle=@ShubhamDesai3623&size=square" alt="Shubham Desai">
+  </a>
+</td>
     <td align="center">
   <a href="https://www.instagram.com/_anish_desai_07/" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2F_anish_desai_07%2F&subtitle=@_anish_desai_07&size=square" alt="SHUBHAM DESAI">

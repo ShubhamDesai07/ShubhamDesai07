@@ -22,10 +22,10 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/_anish_desai_07/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2F_anish_desai_07%2F&subtitle=@mr_.rafik&size=square" alt="RAFIK SHAH">
-      </a>
-    </td>
+  <a href="https://www.instagram.com/_anish_desai_07/" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2F_anish_desai_07%2F&subtitle=@mr_.rafik&size=square" alt="RAFIK SHAH">
+  </a>
+</td>
     <td align="center">
       <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="RAFIK SHAH">

@@ -60,6 +60,12 @@ As a versatile Electronics and telecommunication engineer, I am committed to lev
 
 <br>
 
+### GitHub Contribution Chart
+<a href="https://github.com/ShubhamDesai07">
+    <img src="https://ghchart.rshah.org/ShubhamDesai07" alt="RAFIKSHA's GitHub Contribution Chart">
+</a>
+
+
 
 
 <h2 align="center">📫 Let's Connect!</h2>

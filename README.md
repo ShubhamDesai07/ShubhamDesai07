@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  Matlab Developer | Coder | Tech Enthusiast | Gamer
+  Matlab Developer | Coder | Tech Enthusiast | Gamerboy
+  
 </p>
 
 <div align="center">

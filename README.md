@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  Matlab Developer | Coder | Tech Enthusiast | Gamer
+  Matlab Developer | Coder | Tech Enthusiast | Gamerboy
+  
 </p>
 
 <div align="center">
@@ -59,6 +60,12 @@ As a versatile Electronics and telecommunication engineer, I am committed to lev
  <img src="https://streak-stats.demolab.com?user=ShubhamDesai07&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <br>
+
+### GitHub Contribution Chart
+<a href="https://github.com/ShubhamDesai07">
+    <img src="https://ghchart.rshah.org/ShubhamDesai07" alt="RAFIKSHA's GitHub Contribution Chart">
+</a>
+
 
 
 

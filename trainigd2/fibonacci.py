@@ -32,4 +32,4 @@ while i<=n-2:
     print(f"{tt}")
     ft = st
     st = tt
-    i = i+1
+    i = i+1  
